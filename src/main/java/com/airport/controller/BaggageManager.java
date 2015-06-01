@@ -20,7 +20,7 @@ public class BaggageManager {
 
 	public static void main(String[] args) {
 		
-		LogginConstants.setSTD_OUT_Enable(true);
+		LogginConstants.setSTD_OUT_Enable(false);
 		
 		ConveyorGraphManager conveyorManager = new DefaultConveyorGraphManager();
 		FlightStore flightStore = new DefaultFlightStore();
