@@ -1,12 +1,12 @@
 package airport.query;
 
-import airport.Place;
 import airport.exception.QueryCompilationFailException;
 import airport.exception.QueryExecutionFailException;
 import airport.flight.Flight;
 import airport.flight.FlightStore;
 import airport.flight.Flight.FlightTime;
 import airport.logging.LogginConstants;
+import airport.place.Place;
 
 /**
  * Add flight in airport.

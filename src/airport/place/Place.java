@@ -1,4 +1,4 @@
-package airport;
+package airport.place;
 
 import airport.conveyor.vertex.AbstractConveyorVertex;
 

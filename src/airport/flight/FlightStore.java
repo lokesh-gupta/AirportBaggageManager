@@ -1,7 +1,7 @@
 package airport.flight;
 
-import airport.Place;
 import airport.flight.Flight.FlightTime;
+import airport.place.Place;
 
 /**
  * Maintain all Flight in airport.

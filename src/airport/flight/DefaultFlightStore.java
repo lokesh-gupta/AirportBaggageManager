@@ -3,8 +3,8 @@ package airport.flight;
 import java.util.HashMap;
 import java.util.Map;
 
-import airport.Place;
 import airport.flight.Flight.FlightTime;
+import airport.place.Place;
 
 /**
  * Maintain all flight in airport.

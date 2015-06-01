@@ -1,7 +1,7 @@
 package airport.flight;
 
-import airport.Place;
 import airport.conveyor.vertex.AbstractConveyorVertex;
+import airport.place.Place;
 
 /**
  * Flight maintian its info 
