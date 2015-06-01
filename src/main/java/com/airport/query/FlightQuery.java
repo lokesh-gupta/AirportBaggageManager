@@ -29,8 +29,11 @@ public class FlightQuery extends AbstractQuery<Flight>{
 	 * @param query
 	 * @param flightStore
 	 */
-	public FlightQuery(String query, FlightStore flightStore) {
+	public FlightQuery(String query) {
 		super(query);
+	}
+	
+	public void setFlightStore(FlightStore flightStore) {
 		this.flightStore = flightStore;
 	}
 	
